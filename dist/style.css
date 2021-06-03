@@ -1,0 +1,130 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: black;
+  line-height: 1.5em;  
+} 
+
+h1 {
+  font-family: "Berkshire Swash", fantasy;
+  font-size: 100px;
+  color:#1D7B6E;
+  text-align: center;
+}
+
+p{
+  margin: 5px;
+  padding: 10px;
+}
+
+h2, h3, h4, .steps, thead {
+  color:#1D7B6E;
+}
+
+.emphasis{
+  color:#C36C2F;
+}
+
+#imagem-fundo-header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity:40%;
+  width:700px;
+}
+
+#imagem-fundo{
+  height: 250px;
+  overflow: hidden;
+  }
+
+.header {
+  margin: auto;
+  text-align: center;
+  font-family:"Raleway", sans-serif;
+  color:#1D7B6E;
+  position: absolute;
+  top: 40px;
+  left: 500px;
+        }
+
+th, td {
+  border:solid 1px #8BC8BF;
+  padding: 5px;
+}
+
+thead{
+  background-color: #FFE5D2;
+}
+.odd{
+  background-color: #FFF4ED;
+}
+
+.note {
+  font-style: italic;
+  font-size: 15px;
+  background-color:#E6F8F5;
+  width:60%;
+  margin: 5px;
+  padding-left: 10px;
+}
+
+h4{
+  text-align: center;
+}
+
+
+.right-bar{
+  background-color: #8BC8BF;
+  color: #0D6054;
+  border-color: #1D7B6E;
+  border-left-style: solid;
+  float:right;
+  width:30%;
+  height:1500px;
+  margin:10px;
+  padding:5px; 
+  overflow:auto;
+  font-size: 15px;
+            }
+            
+.bold{
+  font-weight:bold;
+}
+            
+            .who-am-i {
+              color: black;
+              margin: 5px;
+              padding: 10px;
+            }
+            
+           
+#list-two-most{
+  font-style:italic;
+  background-color:#FFE5D2;
+  width:65%;
+  padding: 6px;
+
+}
+            h6 {
+                font-weight:bold;
+            }
+
+.my-bread{
+  margin: 5px;
+  border: ridge 4px #FFD1B1;
+}
+
+.separation{
+  border-top: solid #8BC8BF;
+  width: 65%
+}
+
+#first-bread{
+  width: 50%;
+  float: left;
+}
+
+#second-bread{
+  width: 50%;
+  float: right;
+}
